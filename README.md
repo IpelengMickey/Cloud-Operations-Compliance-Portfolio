@@ -1,57 +1,56 @@
-# Cloud-Operations-Compliance-Portfolio
+# Cloud Operations & Compliance Portfolio
 
 ## Overview
 
-This repository documents my learning journey and practical exercises related to Cloud Operations responsibilities commonly found in modern enterprise environments.
+This repository documents my practical learning and hands-on exercises in Cloud Operations using Microsoft Azure.
 
-The portfolio focuses on operational processes, governance, compliance, documentation, automation, and incident management practices used to support secure and reliable cloud services.
+The portfolio focuses on monitoring, vulnerability management, compliance, operational documentation, incident response, and PowerShell automation to support secure and reliable cloud environments.
 
 ## Objectives
 
 The objectives of this portfolio are to:
 
-* Develop practical cloud operations knowledge.
-* Understand patch management and vulnerability management processes.
-* Explore cloud governance and compliance requirements.
-* Create operational runbooks for common support scenarios.
-* Learn automation concepts using PowerShell.
-* Build professional documentation and reporting skills.
+* Develop practical Cloud Operations skills using Azure.
+* Understand vulnerability identification, assessment, prioritization, and remediation processes.
+* Apply cloud governance and compliance principles.
+* Create operational runbooks for common support and incident scenarios.
+* Use PowerShell to automate operational tasks and security checks.
+* Develop professional technical documentation and reporting practices.
 
 ## Areas Covered
 
-### Patch Management
+### Monitoring
 
-Documentation covering patch lifecycle processes, deployment planning, verification activities, and operational considerations.
+Azure monitoring concepts, activity logging, alerting, and operational visibility used to identify and respond to issues within cloud resources.
 
 ### Vulnerability Management
 
-Documentation describing vulnerability identification, assessment, prioritization, remediation, and reporting processes.
+Processes for identifying, assessing, prioritizing, documenting, and remediating security vulnerabilities within cloud environments.
 
 ### Compliance
 
-Examples of governance controls, compliance activities, audit evidence, and reporting practices used in cloud environments.
+Implementation and documentation of governance controls, security configurations, compliance checks, and audit evidence.
 
 ### Runbooks
 
-Operational procedures designed to support incident response, troubleshooting, escalation, and service restoration activities.
+Operational procedures for troubleshooting, incident response, escalation, remediation, and service recovery.
 
-### Automation
+### PowerShell Automation
 
-PowerShell examples and automation concepts used to improve operational efficiency and reduce manual effort.
+PowerShell scripts and automation concepts used to perform operational checks, retrieve Azure resource information, and reduce repetitive manual tasks.
 
 ### Documentation
 
-Standards, templates, and operational records supporting knowledge sharing, governance, and audit readiness.
+Technical documentation, procedures, templates, and operational records designed to support knowledge sharing, consistency, and audit readiness.
 
 ## Skills Demonstrated
 
 * Cloud Operations
-* Azure Fundamentals
-* Patch Management
+* Microsoft Azure
+* Azure Monitoring
 * Vulnerability Management
-* Compliance Reporting
+* Cloud Security & Compliance
 * Operational Documentation
 * Incident Response
 * PowerShell Automation
-* Governance and Risk Awareness
-
+* Governance & Risk Awareness
